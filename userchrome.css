@@ -616,6 +616,7 @@
 .CodeMirror-lines .CodeMirror-line .cm-strikethrough {
   color: var(--strikethrough-text-color) !important;
   border-color: var(--strikethrough-text-border-color) !important;
+  text-decoration: line-through;
 }
 
 /* insert text --------------------------------------------- */
